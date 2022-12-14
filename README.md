@@ -3,7 +3,7 @@ A simple script for people who couldn't get through initial setup or just simply
 
 Do note this script may not work on OEM roms or future Android versions if additional strings were added.  
 
-This script currently should work with Android version 10~13.  
+This script currently should work with Android version 10~13, works best with AOSP based roms.  
 
 # Requirements
 - Any custom recovery that able to mount and decrypt `/data` partition ([TWRP](https://twrp.me), [OrangeFox](https://orangefox.download), etc...)  

@@ -3,7 +3,9 @@ A simple script for people who couldn't get through initial setup or just simply
 
 Do note this script may not work on OEM roms or future Android versions if additional strings were added.  
 
-This script currently should work with Android version 10~13, works best with AOSP based roms.  
+This script currently should work with Android version 6~13, works best with AOSP based roms.  
+
+[Example](https://t.me/asrielshowcases/3168)  
 
 # Requirements
 - Any custom recovery that able to mount and decrypt `/data` partition ([TWRP](https://twrp.me), [OrangeFox](https://orangefox.download), etc...)  
@@ -17,4 +19,13 @@ This script currently should work with Android version 10~13, works best with AO
 ```
 - Reboot after the whole process completed  
 
-
+# FAQ
+  
+It refuses to execute and returns "Permission denied" error.
+- Run following command to give it proper permissions to be executed:  
+```
+chmod a+x /path/to/the/script/bypass.sh
+```
+  
+Other issues  
+- Feel free to open new issues in this repo.

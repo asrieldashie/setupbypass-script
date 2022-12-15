@@ -5,7 +5,10 @@ Do note this script may not work on OEM roms or future Android versions if addit
 
 This script currently should work with Android version 6~13, works best with AOSP based roms.  
 
-[Example](https://t.me/asrielshowcases/3168)  
+# On what ROM/Device this script works?
+- OxygenOS 10.0.1 / OnePlus 5T
+- [Stock 6.0.1 / Nexus 5](https://t.me/asrielshowcases/3168)
+- And probably more...  
 
 # Requirements
 - Any custom recovery that able to mount and decrypt `/data` partition ([TWRP](https://twrp.me), [OrangeFox](https://orangefox.download), etc...)  
